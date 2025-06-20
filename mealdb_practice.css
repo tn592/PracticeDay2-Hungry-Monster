@@ -1,0 +1,34 @@
+.search-box{
+	width: 435px;
+	height: 35px;
+	border: 1px solid gray;
+	border-radius: 5px;
+	box-shadow: 4px 4px 8px gray;
+}
+
+.search-btn{
+	color: white;
+	font-weight: bold;
+	width: 80px;
+	height: 36px;
+	border: 1px solid #FF6244;
+	border-radius: 5px;
+	box-shadow: 4px 4px 8px gray;
+	background-color: #FF6244;
+}
+
+.search-bar{
+	margin-top: 80px;
+	margin-left: 360px;
+}
+
+.food-container{
+	margin-top: 140px;
+}
+
+.food-details {
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	margin: auto;
+}
